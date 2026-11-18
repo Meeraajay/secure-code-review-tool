@@ -220,3 +220,9 @@ __marimo__/
 .streamlit/secrets.toml
 
 .venv-semgrep/
+
+# Cloned repositories (temporary scan files)
+/cloned_repositories/
+
+# Generated scan results
+/scan_results/
